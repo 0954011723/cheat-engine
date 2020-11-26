@@ -1,5 +1,5 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/a8s3e1pd8070x2y9/branch/master?svg=true)](https://ci.appveyor.com/project/AppVeyor-Website/cheat-engine)
-[![dependencies Status](https://david-dm.org/appveyor/website/status.svg)](https://david-dm.org/appveyor/cheat-engine)
+[![Build status](https://ci.appveyor.com/api/projects/status/a8s3e1pd8070x2y9/branch/master?svg=true)](https://ci.appveyor.com/project/0954011723//cheat-engine)
+[![dependencies Status](https://david-dm.org/appveyor/0954011723/status.svg)](https://david-dm.org/0954011723/cheat-engine)
 
 <p align="center">
     <a href="https://github.com/cheat-engine/cheat-engine/raw/master/Cheat%20Engine/images">
